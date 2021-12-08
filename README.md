@@ -1,1 +1,1 @@
-Multi-faceted problem solving is my main interest. I like to take seemingly complex problems, separate them into more manageable pieces, and then solve each individually. This helps me to better understand how to approach and solve the more complex issue.
+Multi-faceted problem solving is my main interest. I like to find subtle trends in data sets, using matrix decompositions, to better comprehend the complex systems they represent.
