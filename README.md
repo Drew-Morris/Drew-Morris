@@ -1,2 +1,2 @@
-Multi-faceted problem solving is my main interest. I like to find subtle trends in data sets, using linear algebra techniques and statistical analysis, to better comprehend the complex systems they represent.
+Dynamic problem solving is my jam. I enjoy exploring eloquent solutions to otherwise opaque problems. My main tools of interest are algorithmic design and an inquisitive attitude.
 To leave me feedback on my work, fill out the form via the link in my bio.
